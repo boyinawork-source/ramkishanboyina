@@ -26,8 +26,5 @@ Repository:
 ## Tech Stack
 Java 17, Spring Boot, Spring Cloud Gateway, Kafka, PostgreSQL, WebSockets, Docker, JWT, Gradle
 
-## Background
-Previously worked on **Population Insights at Humana**, a next-generation healthcare platform focused on scalable data processing and analytics.
-
 Location: Salt Lake City, UT  
-Open to backend-focused roles (mid to senior level)
+Open to full stack software engineer roles 
